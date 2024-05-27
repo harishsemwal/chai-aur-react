@@ -1,8 +1,10 @@
 import Chai from "./Chai"
 
+const username = "HarishSemwal"
 function App() {
   return (
-    <Chai/>
+    // <Chai/>
+    <h1>the name is {username} </h1>
   )
 }
 
